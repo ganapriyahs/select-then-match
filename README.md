@@ -230,7 +230,3 @@ The FLAME and MALTS packages are needed only to run them again (`pip install dam
 - Stuart, E. A. (2010). Matching methods for causal inference: a review and a look forward. *Statistical Science* 25(1), 1–21.
 - van der Laan, M. J. and Rubin, D. (2006). Targeted maximum likelihood learning. *The International Journal of Biostatistics* 2(1), Article 11.
 - Wang, T. et al. (2021). FLAME: a fast large-scale almost matching exactly approach to causal inference. *JMLR* 22(31), 1–41.
-
-## License
-
-MIT
